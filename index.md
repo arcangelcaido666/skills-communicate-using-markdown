@@ -73,3 +73,22 @@ And finally, I don't know, a meme about acemoglu
 
 
 I have noticed that not all web pages actually work to show an image. The last two comes from Reddit. I tried also Pinterest or Twitter and it was not working
+
+
+## Part 3 of the course: Add code blocks.
+
+I'll include the two exampls shown in the course.
+
+#### Example 1 (git lenguage (?))
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+### Example 2 (javascript lenguage)
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
+I would like to learn if I can write in R here or in Stata, but I think this is advanced. Let's check other day :)
