@@ -92,3 +92,13 @@ var myVar = "Hello, world!";
 
 
 I would like to learn if I can write in R here or in Stata, but I think this is advanced. Let's check other day :)
+
+
+## Part 4 of the course: Add task lists.
+
+This is an example of a task list
+- [x] Create GitHub account
+- [x] Don't know what can I do here
+- [x] Start some courses to learn
+- [ ] Improve my home page
+- [ ] Be an expert on git
