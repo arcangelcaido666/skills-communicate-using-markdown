@@ -50,3 +50,26 @@ And also learning more advanced stuff.
 
 
 Let's continue with the course.
+
+
+## Part 2 of the course: Add images.
+
+Here I should include an image
+
+I will include a couple of them, I dont now if I can just put a random link from teh internet or not
+
+Let's check.
+First the image from the course:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Then let's support your local football clubs. In my case **Unionistas de Salamanca**
+
+![Image of Unionistas de Salamanca](https://external-preview.redd.it/cope-unionistas-de-salamanca-will-pay-homage-to-ud-v0-7gzTGY-sImFh9hVQ44znRHvIwro51hLVtqoM315lQgY.jpg?auto=webp&s=6db5510c04ac5a5992f3e850ea45009e27ce6dfe)
+
+And finally, I don't know, a meme about acemoglu
+
+![meme daron acemoglu](https://preview.redd.it/citing-marx-citing-acemoglu-v0-cj4pfprjbzsd1.jpeg?auto=webp&s=80dc79dce7e1039bd8164394b50ae58f740b463c)
+
+
+I have noticed that not all web pages actually work to show an image. The last two comes from Reddit. I tried also Pinterest or Twitter and it was not working
